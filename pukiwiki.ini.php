@@ -126,7 +126,7 @@ $modifier = 'nyatsume';
 $modifierlink = 'http://web.sfc.keio.ac.jp/~t17507nt/pukiwiki-1_5_0_utf8/';
 
 // Default page name
-$defaultpage  = 'FrontPage';     // Top / Default page
+$defaultpage  = 'VActorsMemberpage';     // Top / Default page
 $whatsnew     = 'RecentChanges'; // Modified page list
 $whatsdeleted = 'RecentDeleted'; // Removeed page list
 $interwiki    = 'InterWikiName'; // Set InterWiki definition here
